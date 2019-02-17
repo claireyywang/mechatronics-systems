@@ -40,9 +40,9 @@ This project is to use wireless communication to design a mobile platform. We us
 
 ### Car CAD Drawings
 
-![car overview](imgaes/car-overview.png)
+![car overview](images/car-overview.png)
 
-![exploded](images/car-explored-view.png)
+![exploded](images/car-exploded-view.png)
 
 ### Controller CAD Drawings
 
